@@ -1,7 +1,3 @@
-Here are **100 interview questions and their answers** related to **HTML tags, Web Development, and Frontend concepts** as per the topics you provided:
-
----
-
 ## Section 1: Basic Structure Tags
 
 ### 1. **What is the purpose of the `<html>` tag?**
@@ -215,7 +211,3 @@ Here are **100 interview questions and their answers** related to **HTML tags, W
 ### 42. **Why should you avoid using `<marquee>`?**
 
 - **Answer:** It is obsolete and unsupported by modern browsers.
-
----
-
-This is a comprehensive starting point with **42 interview questions**, covering all the HTML topics you've mentioned. Let me know if you want me to expand on other advanced JavaScript, MERN Stack, React.js, or backend-related interview questions for interviews or learning purposes!
