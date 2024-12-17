@@ -1,0 +1,105 @@
+1. Basic Structure Tags
+   <html>: Root element.
+   <head>: Metadata container.
+   <body>: Main content.
+2. Document Metadata
+   <title>: Document title.
+   <meta>: Metadata (e.g., charset, viewport).
+   <link>: Links external resources.
+   <style>: Embeds CSS.
+   <base>: Sets the base URL.
+3. Content Sectioning
+   <header>: Introductory content.
+   <nav>: Navigation links.
+   <section>: Thematic grouping of content.
+   <article>: Self-contained content.
+   <aside>: Related content, like sidebars.
+   <footer>: Footer content.
+   <main>: Main content area.
+   <address>: Contact information.
+4. Text Content
+   <h1> to    <h6>: Headings.
+   <p>: Paragraph.
+   <hr>: Horizontal rule.
+   <pre>: Preformatted text.
+   <blockquote>: Quoted content.
+   <ol>: Ordered list.
+   <ul>: Unordered list.
+   <li>: List item.
+   <dl>: Description list.
+   <dt>: Term in a description list.
+   <dd>: Description of the term.
+5. Inline Text Semantics
+   <a>: Hyperlink.
+   <span>: Generic container for inline content.
+   <strong>: Strong emphasis.
+   <em>: Emphasis.
+   <mark>: Highlighted text.
+   <small>: Side comments.
+   <del>: Deleted text.
+   <ins>: Inserted text.
+   <b>: Bold text.
+   <i>: Italicized text.
+   <u>: Underlined text.
+   <code>: Code snippet.
+   <kbd>: Keyboard input.
+   <sup>: Superscript text.
+   <sub>: Subscript text.
+   <br>: Line break.
+   <wbr>: Line break opportunity.
+6. Media
+   <img>: Image.
+   <figure>: Grouping media with captions.
+   <figcaption>: Caption for    <figure>.
+   <video>: Video content.
+   <audio>: Audio content.
+   <source>: Media source for    <video> or    <audio>.
+   <track>: Text tracks for    <video> or    <audio>.
+   <picture>: Container for multiple image sources.
+7. Forms
+   <form>: Form container.
+   <input>: Input field.
+   <textarea>: Multiline text input.
+   <button>: Button.
+   <select>: Dropdown menu.
+   <option>: Dropdown item.
+   <optgroup>: Grouping    <option> elements.
+   <label>: Label for form elements.
+   <fieldset>: Grouping related form elements.
+   <legend>: Caption for    <fieldset>.
+   <output>: Result of a calculation.
+   <datalist>: Predefined options for an    <input>.
+8. Interactive Elements
+   <details>: Toggleable details.
+   <summary>: Summary of    <details>.
+   <dialog>: Dialog box or modal.
+9. Tables
+   <table>: Table container.
+   <caption>: Table caption.
+   <thead>: Table header.
+   <tbody>: Table body.
+   <tfoot>: Table footer.
+   <tr>: Table row.
+   <th>: Header cell.
+   <td>: Table cell.
+   <col>: Column properties.
+   <colgroup>: Group of columns.
+10. Scripting
+   <script>: Embeds JavaScript.
+   <noscript>: Fallback for browsers without JavaScript.
+11. Embedded Content
+   <iframe>: Inline frame.
+   <embed>: Embedded external content.
+   <object>: Container for external resources.
+   <param>: Parameters for    <object>.
+12. Semantic & Structural
+   <div>: Generic block container.
+   <section>: Defines a section.
+13. Deprecated/Obsolete Tags
+   <acronym>: Use    <abbr> instead.
+   <bgsound>: No longer supported.
+   <big>: Use CSS instead.
+   <blink>: Deprecated.
+   <font>: Use CSS instead.
+   <center>: Use CSS instead.
+   <marquee>: Obsolete scrolling text.
